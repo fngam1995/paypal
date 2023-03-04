@@ -3,3 +3,4 @@ Simon
 Dominion
 Ayo
 dominion
+manager
